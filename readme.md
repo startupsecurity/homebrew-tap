@@ -1,5 +1,9 @@
 # SUS Homebrew
 
-brew tap startupsecurity/sus
+Get tapping! 
+
+```bash
+brew tap startupsecurity/homebrew-tap
 brew install evileye-swift
+```
 
